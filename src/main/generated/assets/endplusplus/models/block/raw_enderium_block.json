@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "endplusplus:block/raw_enderium_block"
+  }
+}

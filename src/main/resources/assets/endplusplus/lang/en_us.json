@@ -1,0 +1,29 @@
+{
+  //item names
+  "item.endplusplus.enderium_dust": "Enderium Dust",
+  "item.endplusplus.enderium_ingot": "Enderium Ingot",
+  "item.endplusplus.runic_crystal": "Runic Crystal",
+  "item.endplusplus.raw_enderium": "Compressed Enderium",
+  "item.endplusplus.end_stick": "Rod of Anti Matter",
+  //Equipment
+  "item.endplusplus.runic_sword": "Runic Sword",
+  "item.endplusplus.runic_shovel": "Runic Shovel",
+  "item.endplusplus.runic_axe": "Runic Axe",
+  "item.endplusplus.runic_pickaxe": "Runic Pickaxe",
+  "item.endplusplus.runic_hoe": "Runic Hoe",
+
+  "item.endplusplus.runic_helmet": "Runic Helmet",
+  "item.endplusplus.runic_chestplate": "Runic Chestplate",
+  "item.endplusplus.runic_leggings": "Runic Leggings",
+  "item.endplusplus.runic_boots": "Runic Boots",
+
+  //block names
+  "block.endplusplus.enderium_source": "Source Of Enderium",
+  "block.endplusplus.enderium_block": "Block Of Enderium",
+  "block.endplusplus.raw_enderium_block": "Block Of Compressed Enderium",
+  "block.endplusplus.end_tree_log": "Anti Matter Log",
+  "block.endplusplus.end_tree_wood": "Anti Matter Wood",
+  "block.endplusplus.end_tree_planks": "Anti Matter Planks",
+  "block.endplusplus.end_tree_sapling": "Sapling of Anti Matter",
+  "block.endplusplus.end_tree_leaves": "Anti Matter Leaves"
+}

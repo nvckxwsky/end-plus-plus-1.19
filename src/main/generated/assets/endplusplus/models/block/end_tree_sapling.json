@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "endplusplus:block/end_tree_sapling"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "i": {
+      "item": "minecraft:iron_block"
+    },
+    "n": {
+      "item": "minecraft:netherite_shovel"
+    },
+    "p": {
+      "item": "minecraft:podzol"
+    },
+    "r": {
+      "item": "endplusplus:runic_crystal"
+    },
+    "s": {
+      "item": "endplusplus:end_stick"
+    }
+  },
+  "pattern": [
+    "iri",
+    "pnp",
+    "isi"
+  ],
+  "result": {
+    "item": "endplusplus:runic_shovel"
+  },
+  "show_notification": true
+}

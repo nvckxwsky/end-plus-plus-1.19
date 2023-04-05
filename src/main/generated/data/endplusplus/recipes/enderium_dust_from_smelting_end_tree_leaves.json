@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 2.0,
+  "group": "endplusplus",
+  "ingredient": {
+    "item": "endplusplus:end_tree_leaves"
+  },
+  "result": "endplusplus:enderium_dust"
+}

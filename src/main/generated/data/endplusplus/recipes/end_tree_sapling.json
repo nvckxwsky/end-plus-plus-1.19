@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "e": {
+      "item": "endplusplus:end_tree_leaves"
+    }
+  },
+  "pattern": [
+    "eee",
+    "eee",
+    "eee"
+  ],
+  "result": {
+    "item": "endplusplus:end_tree_sapling"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "e": {
+      "item": "endplusplus:enderium_ingot"
+    }
+  },
+  "pattern": [
+    "ede",
+    "ded",
+    "ede"
+  ],
+  "result": {
+    "item": "endplusplus:runic_crystal"
+  },
+  "show_notification": true
+}

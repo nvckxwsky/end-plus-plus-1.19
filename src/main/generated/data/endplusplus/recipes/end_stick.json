@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "e": {
+      "item": "endplusplus:end_tree_planks"
+    }
+  },
+  "pattern": [
+    "   ",
+    " e ",
+    " e "
+  ],
+  "result": {
+    "item": "endplusplus:end_stick"
+  },
+  "show_notification": true
+}

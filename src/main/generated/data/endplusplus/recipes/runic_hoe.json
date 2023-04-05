@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "minecraft:golden_apple"
+    },
+    "i": {
+      "item": "minecraft:iron_block"
+    },
+    "n": {
+      "item": "minecraft:netherite_hoe"
+    },
+    "r": {
+      "item": "endplusplus:runic_crystal"
+    },
+    "s": {
+      "item": "endplusplus:end_stick"
+    }
+  },
+  "pattern": [
+    "iri",
+    "ana",
+    "isi"
+  ],
+  "result": {
+    "item": "endplusplus:runic_hoe"
+  },
+  "show_notification": true
+}

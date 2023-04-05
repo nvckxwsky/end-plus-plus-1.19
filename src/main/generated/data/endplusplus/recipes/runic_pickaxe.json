@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "i": {
+      "item": "minecraft:iron_block"
+    },
+    "n": {
+      "item": "minecraft:netherite_pickaxe"
+    },
+    "r": {
+      "item": "endplusplus:runic_crystal"
+    },
+    "s": {
+      "item": "endplusplus:end_stick"
+    }
+  },
+  "pattern": [
+    "iri",
+    "gng",
+    "isi"
+  ],
+  "result": {
+    "item": "endplusplus:runic_pickaxe"
+  },
+  "show_notification": true
+}

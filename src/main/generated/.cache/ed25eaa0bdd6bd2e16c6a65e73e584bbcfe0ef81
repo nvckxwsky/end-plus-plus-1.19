@@ -1,0 +1,8 @@
+// 1.19.4	2023-04-05T12:48:19.5209864	End++/Block Loot Tables
+1da6d27ad8b87bbc104214efd56dcd8f4fd22bfa data\endplusplus\loot_tables\blocks\end_tree_log.json
+ef8ff7f3a17defac1df41c9069b82dbafb3aa264 data\endplusplus\loot_tables\blocks\end_tree_leaves.json
+397c96ae588856f0a14db92fe370a04ddd398c4e data\endplusplus\loot_tables\blocks\enderium_source.json
+099c928b6fdb827482649eff4683de5974e23958 data\endplusplus\loot_tables\blocks\end_tree_planks.json
+a7ae60384bddfcef41e2cb45c1ed46f355e8adb9 data\endplusplus\loot_tables\blocks\enderium_block.json
+71ed23726933c60a1dd364d96ffb1f9728f08099 data\endplusplus\loot_tables\blocks\end_tree_wood.json
+a249c60c0a4d2bb89bf9af0aeacb82a731d87d39 data\endplusplus\loot_tables\blocks\raw_enderium_block.json

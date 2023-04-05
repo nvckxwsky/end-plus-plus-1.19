@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "e": {
+      "item": "endplusplus:end_tree_log"
+    },
+    "i": {
+      "item": "minecraft:iron_block"
+    },
+    "n": {
+      "item": "minecraft:netherite_axe"
+    },
+    "r": {
+      "item": "endplusplus:runic_crystal"
+    },
+    "s": {
+      "item": "endplusplus:end_stick"
+    }
+  },
+  "pattern": [
+    "iri",
+    "ene",
+    "isi"
+  ],
+  "result": {
+    "item": "endplusplus:runic_axe"
+  },
+  "show_notification": true
+}

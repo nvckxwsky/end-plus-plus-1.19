@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "i": {
+      "item": "minecraft:iron_block"
+    },
+    "n": {
+      "item": "minecraft:netherite_sword"
+    },
+    "r": {
+      "item": "endplusplus:runic_crystal"
+    },
+    "s": {
+      "item": "endplusplus:end_stick"
+    }
+  },
+  "pattern": [
+    "iri",
+    "dnd",
+    "isi"
+  ],
+  "result": {
+    "item": "endplusplus:runic_sword"
+  },
+  "show_notification": true
+}

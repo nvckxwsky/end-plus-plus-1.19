@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "endplusplus",
+  "version": "${version}",
+
+  "name": "End++",
+  "description": "Addition to goofy ahh vanilla end dimension!",
+  "authors": [
+    "nvckxwsky!"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.nvckxwsky.endplusplus.EndPlusPlus"
+    ],
+    "client": [
+      "net.nvckxwsky.endplusplus.EndPlusPlusModClient"
+    ],
+    "fabric-datagen": [
+      "net.nvckxwsky.endplusplus.EndPlusPlusDataGenerator"
+    ]
+  },
+  "mixins": [
+    "endplusplus.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.17",
+    "fabric-api": "*",
+    "minecraft": "~1.19.4",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

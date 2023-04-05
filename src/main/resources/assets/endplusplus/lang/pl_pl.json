@@ -1,0 +1,27 @@
+{
+  //item names
+  "item.endplusplus.enderium_dust": "Proszek Enderium",
+  "item.endplusplus.enderium_ingot": "Sztabka Enderium",
+  "item.endplusplus.runic_crystal": "Runiczny Kryształ",
+  "item.endplusplus.raw_enderium": "Skompresowane Enderium",
+  "item.endplusplus.end_stick": "Różdzka Anty Materii",
+  //Equipment
+  "item.endplusplus.runic_sword": "Runiczny Miecz",
+  "item.endplusplus.runic_shovel": "Runiczna Łopata",
+  "item.endplusplus.runic_axe": "Runiczna Siekiera",
+  "item.endplusplus.runic_pickaxe": "Runiczny Kilof",
+  "item.endplusplus.runic_hoe": "Runiczna Dziwka",
+  "item.endplusplus.runic_helmet": "Runiczny Hełm",
+  "item.endplusplus.runic_chestplate": "Runiczny Napierśnik",
+  "item.endplusplus.runic_leggings": "Runiczne Gacie",
+  "item.endplusplus.runic_boots": "Runiczne Buty",
+  //block names
+  "block.endplusplus.enderium_source": "Źródło Enderium",
+  "block.endplusplus.enderium_block": "Blok Enderium",
+  "block.endplusplus.raw_enderium_block": "Blok Skompresowanego Enderium ",
+  "block.endplusplus.end_tree_log": "Pień Anty Materii",
+  "block.endplusplus.end_tree_wood": "Drzewo Anty Materii",
+  "block.endplusplus.end_tree_planks": "Deski Anty Materii",
+  "block.endplusplus.end_tree_sapling": "Sadzonka Anty Materii",
+  "block.endplusplus.end_tree_leaves": "Liście Anty Materii"
+}

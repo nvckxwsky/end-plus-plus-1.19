@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 500,
+  "experience": 6.0,
+  "group": "endplusplus",
+  "ingredient": {
+    "item": "endplusplus:raw_enderium"
+  },
+  "result": "endplusplus:enderium_ingot"
+}
