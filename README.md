@@ -27,36 +27,47 @@ Mod also should work with other mods as long as they're not modifing end dimensi
 All recipes for new tools blocks and other stuff that my mod adds!
 
 Runic Crystal
+
 ![App Screenshot](https://i.imgur.com/abTr5gH.png)
+
 This item is essential for every single tool crafting recipe
 
 Runic Pickaxe
+
 ![App Screenshot](https://i.imgur.com/8iCef8B.png)
 
 Runic Sword
+
 ![App Screenshot](https://i.imgur.com/ev3129H.png)
 
 Runic Axe
+
 ![App Screenshot](https://i.imgur.com/WkaZ91T.png)
 
 Runic Shovel
+
 ![App Screenshot](https://i.imgur.com/Ld8xJ3B.png)
 
 Runic Hoe
+
 ![App Screenshot](https://i.imgur.com/k7CnuOQ.png)
 
 To get a "Enderium Dust" you need to mine a "Source of Enderium" that is generated in End Dimension and you can only mine it with Netherite Pickaxe!
 
 Compressed Enderium 
+
 ![App Screenshot](https://i.imgur.com/StA2TVq.png)
 
 Block of Compressed Enderium
+
 ![App Screenshot](https://i.imgur.com/d0iDCFH.png)
 
 Enderium Ingot
+
 ![App Screenshot](https://i.imgur.com/2qQuOzJ.png)
 
 Block of Enderium
+
 ![App Screenshot](https://i.imgur.com/DuQ3B2s.png)
 
 Also Mod adds new Trees called "Anti Matter Trees" that are generated in end dimension and they have their crafting recepies!
@@ -64,6 +75,7 @@ Also Mod adds new Trees called "Anti Matter Trees" that are generated in end dim
 Most of them are really "intuitive" but the weird one is:
 
 Sapling of Anti Matter
+
 ![App Screenshot](https://i.imgur.com/aaUC6tT.png)
 
 This is the only way to get saplings of "Anti Matter Tree"!
