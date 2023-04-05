@@ -1,4 +1,3 @@
-
 # EndPlusPlus Mod for Mc 1.19.4 
 
 EndPlusPlus adds new content to vanilla end dimension like end-exclusive resources, new higher tier of tools and new crafting recepies.
@@ -33,12 +32,16 @@ This item is essential for every single tool crafting recipe
 
 Runic Pickaxe
 ![App Screenshot](https://i.imgur.com/8iCef8B.png)
+
 Runic Sword
 ![App Screenshot](https://i.imgur.com/ev3129H.png)
+
 Runic Axe
 ![App Screenshot](https://i.imgur.com/WkaZ91T.png)
+
 Runic Shovel
 ![App Screenshot](https://i.imgur.com/Ld8xJ3B.png)
+
 Runic Hoe
 ![App Screenshot](https://i.imgur.com/k7CnuOQ.png)
 
@@ -46,10 +49,13 @@ To get a "Enderium Dust" you need to mine a "Source of Enderium" that is generat
 
 Compressed Enderium 
 ![App Screenshot](https://i.imgur.com/StA2TVq.png)
+
 Block of Compressed Enderium
 ![App Screenshot](https://i.imgur.com/d0iDCFH.png)
+
 Enderium Ingot
 ![App Screenshot](https://i.imgur.com/2qQuOzJ.png)
+
 Block of Enderium
 ![App Screenshot](https://i.imgur.com/DuQ3B2s.png)
 
