@@ -10,6 +10,8 @@ This project also is made for fun to try Minecraft Modding and Java Programming 
 
 
 ## Dependencies
+Download Link:
+https://www.curseforge.com/minecraft/mc-mods/endplusplus/files
 
 To use this mod you need to install a Fabric Loader and Fabric API for Minecraf 1.19.4 which you can find on this websites:
 https://fabricmc.net/use/installer/ - Fabric Loader
