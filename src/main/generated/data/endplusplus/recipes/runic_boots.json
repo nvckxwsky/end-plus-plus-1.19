@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "minecraft:book"
+    },
+    "p": {
+      "item": "minecraft:paper"
+    },
+    "r": {
+      "item": "endplusplus:runic_crystal"
+    }
+  },
+  "pattern": [
+    "ppp",
+    "brb",
+    "ppp"
+  ],
+  "result": {
+    "item": "endplusplus:forging_book"
+  },
+  "show_notification": true
+}

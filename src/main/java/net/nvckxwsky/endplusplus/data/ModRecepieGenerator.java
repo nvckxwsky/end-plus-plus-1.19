@@ -87,6 +87,18 @@ public class ModRecepieGenerator extends FabricRecipeProvider {
                         FabricRecipeProvider.conditionsFromItem(ModBlocks.END_TREE_LEAVES))
                 .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModBlocks.END_TREE_SAPLING)));
 
+        //Forging book
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.Forging_Book)
+                .pattern("ppp")
+                .pattern("brb")
+                .pattern("ppp")
+                .input('r', ModItems.Runic_Crystal)
+                .input('p', Items.PAPER)
+                .input('b', Items.BOOK)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.Runic_Crystal),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.Runic_Crystal))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.Forging_Book)));
+
         //Tools recepies
         ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.Runic_Pickaxe)
                 .pattern("iri")
@@ -163,6 +175,62 @@ public class ModRecepieGenerator extends FabricRecipeProvider {
                         FabricRecipeProvider.conditionsFromItem(ModItems.Runic_Crystal))
                 .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.Runic_Hoe)));
 
+        //RUNIC ARMOR
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.Runic_Helmet)
+                .pattern("iri")
+                .pattern("bnb")
+                .pattern("i i")
+                .input('r', ModItems.Runic_Crystal)
+                .input('b', ModItems.Forging_Book)
+                .input('n', Items.NETHERITE_HELMET)
+                .input('i', Blocks.IRON_BLOCK)
+                .criterion(FabricRecipeProvider.hasItem(Items.NETHERITE_HELMET),
+                        FabricRecipeProvider.conditionsFromItem(Items.NETHERITE_HELMET))
+                .criterion(FabricRecipeProvider.hasItem(ModItems.Runic_Crystal),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.Runic_Crystal))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.Runic_Helmet)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.Runic_Chestplate)
+                .pattern("iri")
+                .pattern("bnb")
+                .pattern("i i")
+                .input('r', ModItems.Runic_Crystal)
+                .input('b', ModItems.Forging_Book)
+                .input('n', Items.NETHERITE_CHESTPLATE)
+                .input('i', Blocks.IRON_BLOCK)
+                .criterion(FabricRecipeProvider.hasItem(Items.NETHERITE_CHESTPLATE),
+                        FabricRecipeProvider.conditionsFromItem(Items.NETHERITE_CHESTPLATE))
+                .criterion(FabricRecipeProvider.hasItem(ModItems.Runic_Crystal),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.Runic_Crystal))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.Runic_Chestplate)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.Runic_Leggings)
+                .pattern("iri")
+                .pattern("bnb")
+                .pattern("i i")
+                .input('r', ModItems.Runic_Crystal)
+                .input('b', ModItems.Forging_Book)
+                .input('n', Items.NETHERITE_LEGGINGS)
+                .input('i', Blocks.IRON_BLOCK)
+                .criterion(FabricRecipeProvider.hasItem(Items.NETHERITE_LEGGINGS),
+                        FabricRecipeProvider.conditionsFromItem(Items.NETHERITE_LEGGINGS))
+                .criterion(FabricRecipeProvider.hasItem(ModItems.Runic_Crystal),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.Runic_Crystal))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.Runic_Leggings)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.Runic_Boots)
+                .pattern("iri")
+                .pattern("bnb")
+                .pattern("i i")
+                .input('r', ModItems.Runic_Crystal)
+                .input('b', ModItems.Forging_Book)
+                .input('n', Items.NETHERITE_BOOTS)
+                .input('i', Blocks.IRON_BLOCK)
+                .criterion(FabricRecipeProvider.hasItem(Items.NETHERITE_BOOTS),
+                        FabricRecipeProvider.conditionsFromItem(Items.NETHERITE_BOOTS))
+                .criterion(FabricRecipeProvider.hasItem(ModItems.Runic_Crystal),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.Runic_Crystal))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.Runic_Boots)));
 
 
     }

@@ -21,6 +21,7 @@ public class ModItems {
     public static final Item Raw_Enderium = registerItem("raw_enderium",new Item(new FabricItemSettings()));
     public static final Item Runic_Crystal = registerItem("runic_crystal",new Item(new FabricItemSettings()));
     public static final Item End_Stick = registerItem("end_stick",new Item(new FabricItemSettings()));
+    public static final Item Forging_Book = registerItem("forging_book",new Item(new FabricItemSettings()));
 
     public static final Item Runic_Sword = registerItem("runic_sword",new SwordItem(ModToolMaterials.RUNIC, 3,2f,
             new FabricItemSettings()));
@@ -32,14 +33,15 @@ public class ModItems {
             new FabricItemSettings()));
     public static final Item Runic_Hoe = registerItem("runic_hoe",new ModHoeItem(ModToolMaterials.RUNIC, 0,0f,
             new FabricItemSettings()));
-    /*public static final Item Runic_Helmet = registerItem("runic_helmet",new ArmorItem(ModArmorMaterials.RUNIC, EquipmentSlot.HEAD,
+
+    public static final Item Runic_Helmet = registerItem("runic_helmet",new ArmorItem(ModArmorMaterials.RUNIC, ArmorItem.Type.HELMET,
             new FabricItemSettings()));
-    public static final Item Runic_Chestplate = registerItem("runic_chestplate",new ArmorItem(ModArmorMaterials.RUNIC, EquipmentSlot.CHEST,
+    public static final Item Runic_Chestplate = registerItem("runic_chestplate",new ArmorItem(ModArmorMaterials.RUNIC, ArmorItem.Type.CHESTPLATE,
             new FabricItemSettings()));
-    public static final Item Runic_Leggings = registerItem("runic_leggings",new ArmorItem(ModArmorMaterials.RUNIC, EquipmentSlot.LEGS,
+    public static final Item Runic_Leggings = registerItem("runic_leggings",new ArmorItem(ModArmorMaterials.RUNIC, ArmorItem.Type.LEGGINGS,
             new FabricItemSettings()));
-   public static final Item Runic_Boots = registerItem("runic_boots",new ArmorItem(ModArmorMaterials.RUNIC, EquipmentSlot.FEET,
-            new FabricItemSettings()));*/
+   public static final Item Runic_Boots = registerItem("runic_boots",new ArmorItem(ModArmorMaterials.RUNIC, ArmorItem.Type.BOOTS,
+            new FabricItemSettings()));
 
 
     public static void addItemsToItemGroup(){
@@ -48,15 +50,16 @@ public class ModItems {
         addToItemGroup(ModItemGroup.EndPlusPLus, Raw_Enderium);
         addToItemGroup(ModItemGroup.EndPlusPLus, Runic_Crystal);
         addToItemGroup(ModItemGroup.EndPlusPLus, End_Stick);
+        addToItemGroup(ModItemGroup.EndPlusPLus, Forging_Book);
         addToItemGroup(ModItemGroup.EndPlusPLus, Runic_Hoe);
         addToItemGroup(ModItemGroup.EndPlusPLus, Runic_Shovel);
         addToItemGroup(ModItemGroup.EndPlusPLus, Runic_Axe);
         addToItemGroup(ModItemGroup.EndPlusPLus, Runic_Sword);
         addToItemGroup(ModItemGroup.EndPlusPLus, Runic_Pickaxe);
-        /*addToItemGroup(ModItemGroup.EndPlusPLus, Runic_Helmet);
-        //addToItemGroup(ModItemGroup.EndPlusPLus, Runic_Chestplate);
-        //addToItemGroup(ModItemGroup.EndPlusPLus, Runic_Leggings);
-        //addToItemGroup(ModItemGroup.EndPlusPLus, Runic_Boots);*/
+        addToItemGroup(ModItemGroup.EndPlusPLus, Runic_Helmet);
+        addToItemGroup(ModItemGroup.EndPlusPLus, Runic_Chestplate);
+        addToItemGroup(ModItemGroup.EndPlusPLus, Runic_Leggings);
+        addToItemGroup(ModItemGroup.EndPlusPLus, Runic_Boots);
     }
 
     private static void addToItemGroup(ItemGroup group,Item item){

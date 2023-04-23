@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "endplusplus:forging_book"
+    },
+    "i": {
+      "item": "minecraft:iron_block"
+    },
+    "n": {
+      "item": "minecraft:netherite_chestplate"
+    },
+    "r": {
+      "item": "endplusplus:runic_crystal"
+    }
+  },
+  "pattern": [
+    "iri",
+    "bnb",
+    "i i"
+  ],
+  "result": {
+    "item": "endplusplus:runic_chestplate"
+  },
+  "show_notification": true
+}

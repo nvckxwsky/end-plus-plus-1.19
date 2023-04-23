@@ -36,15 +36,16 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.Raw_Enderium, Models.GENERATED);
         itemModelGenerator.register(ModItems.Runic_Crystal, Models.GENERATED);
         itemModelGenerator.register(ModItems.End_Stick, Models.GENERATED);
+        itemModelGenerator.register(ModItems.Forging_Book, Models.GENERATED);
         itemModelGenerator.register(ModItems.Runic_Pickaxe, Models.HANDHELD);
         itemModelGenerator.register(ModItems.Runic_Sword, Models.HANDHELD);
         itemModelGenerator.register(ModItems.Runic_Axe, Models.HANDHELD);
         itemModelGenerator.register(ModItems.Runic_Shovel, Models.HANDHELD);
         itemModelGenerator.register(ModItems.Runic_Hoe, Models.HANDHELD);
-        /*itemModelGenerator.register(ModItems.Runic_Helmet, Models.GENERATED);
+        itemModelGenerator.register(ModItems.Runic_Helmet, Models.GENERATED);
         itemModelGenerator.register(ModItems.Runic_Chestplate, Models.GENERATED);
         itemModelGenerator.register(ModItems.Runic_Leggings, Models.GENERATED);
-        itemModelGenerator.register(ModItems.Runic_Boots, Models.GENERATED);*/
+        itemModelGenerator.register(ModItems.Runic_Boots, Models.GENERATED);
 
 
     }
