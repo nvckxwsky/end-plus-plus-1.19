@@ -35,7 +35,7 @@ Runic Crystal
 
 This item is essential for this crafting recipes:
 
-Forging Book
+Book of Ancient Blacksmiths
 
 ![App Screenshot](https://i.imgur.com/JClslQL.png)
 
