@@ -3,22 +3,25 @@
   "category": "misc",
   "key": {
     "b": {
-      "item": "minecraft:book"
+      "item": "endplusplus:forging_book"
     },
-    "p": {
-      "item": "minecraft:paper"
+    "i": {
+      "item": "minecraft:iron_block"
+    },
+    "n": {
+      "item": "minecraft:netherite_boots"
     },
     "r": {
       "item": "endplusplus:runic_crystal"
     }
   },
   "pattern": [
-    "ppp",
-    "brb",
-    "ppp"
+    "iri",
+    "bnb",
+    "i i"
   ],
   "result": {
-    "item": "endplusplus:forging_book"
+    "item": "endplusplus:runic_boots"
   },
   "show_notification": true
 }

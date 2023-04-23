@@ -1,4 +1,4 @@
-// 1.19.4	2023-04-23T14:22:17.983272	End++/Model Definitions
+// 1.19.4	2023-04-23T22:35:05.0009501	End++/Model Definitions
 385cfd287ddb893be2c094974ed7adc153bed67d assets\endplusplus\blockstates\end_tree_wood.json
 b60627609c97dce6bf850bdc45620320b5a27299 assets\endplusplus\models\item\end_tree_wood.json
 2ae9fc26b0603ed5230fe50cbbdc96edb6e935f4 assets\endplusplus\blockstates\raw_enderium_block.json
@@ -34,8 +34,8 @@ c11570a05b6755afca1a09b400d4ccfceabadc6e assets\endplusplus\models\item\forging_
 ddbcfb9c98bb3d132bd3d9a0fa1f5d4cb1deaa5b assets\endplusplus\models\item\enderium_block.json
 5acc9d216baff6df305b850f3d24588d4de8e212 assets\endplusplus\models\item\runic_pickaxe.json
 35f4e75b08e51a12b3586f72e548323f62d97025 assets\endplusplus\blockstates\end_tree_log.json
-c3b1cc1b29253196b45fdac4d5073cd99918c509 assets\endplusplus\models\item\enderium_dust.json
 903ffb295b0bcee9183a89201fb1a03e4b15bb11 assets\endplusplus\models\block\enderium_block.json
+c3b1cc1b29253196b45fdac4d5073cd99918c509 assets\endplusplus\models\item\enderium_dust.json
 f5a8a19757cd842d21ad8f539c86ea1fff139452 assets\endplusplus\models\item\runic_boots.json
 f2b701d0fa76a7caf3def62fe726002fac36a13c assets\endplusplus\models\item\runic_axe.json
 30f84401c1d267e4f8058a37b465711829e68cec assets\endplusplus\blockstates\end_tree_planks.json

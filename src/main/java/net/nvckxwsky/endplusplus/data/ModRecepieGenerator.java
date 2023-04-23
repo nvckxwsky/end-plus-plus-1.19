@@ -5,13 +5,10 @@ import net.fabricmc.fabric.api.datagen.v1.provider.FabricRecipeProvider;
 import net.minecraft.block.Blocks;
 import net.minecraft.data.server.recipe.RecipeJsonProvider;
 import net.minecraft.data.server.recipe.ShapedRecipeJsonBuilder;
-import net.minecraft.item.BlockItem;
-import net.minecraft.item.Item;
 import net.minecraft.item.Items;
 import net.minecraft.recipe.book.RecipeCategory;
 import net.minecraft.util.Identifier;
 import net.nvckxwsky.endplusplus.block.ModBlocks;
-import net.nvckxwsky.endplusplus.item.ModItemGroup;
 import net.nvckxwsky.endplusplus.item.ModItems;
 
 import java.util.List;
@@ -231,6 +228,8 @@ public class ModRecepieGenerator extends FabricRecipeProvider {
                 .criterion(FabricRecipeProvider.hasItem(ModItems.Runic_Crystal),
                         FabricRecipeProvider.conditionsFromItem(ModItems.Runic_Crystal))
                 .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.Runic_Boots)));
+
+
 
 
     }

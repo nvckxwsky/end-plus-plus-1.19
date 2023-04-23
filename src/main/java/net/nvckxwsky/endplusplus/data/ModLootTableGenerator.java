@@ -25,6 +25,7 @@ public class ModLootTableGenerator extends FabricBlockLootTableProvider {
         addDrop(ModBlocks.END_TREE_WOOD);
         addDrop(ModBlocks.END_TREE_LOG);
         addDrop(ModBlocks.END_TREE_PLANKS);
+        addDrop(ModBlocks.END_TREE_SAPLING);
         addDrop(ModBlocks.END_TREE_LEAVES, oreDrops(ModBlocks.END_TREE_LEAVES,ModItems.End_Stick));
 
     }
