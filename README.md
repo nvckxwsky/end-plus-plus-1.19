@@ -1,3 +1,4 @@
+
 # EndPlusPlus Mod for Mc 1.19.4 
 
 EndPlusPlus adds new content to vanilla end dimension like end-exclusive resources, new higher tier of tools and new crafting recepies.
@@ -32,7 +33,11 @@ Runic Crystal
 
 ![App Screenshot](https://i.imgur.com/abTr5gH.png)
 
-This item is essential for every single tool crafting recipe
+This item is essential for this crafting recipes:
+
+Forging Book
+
+![App Screenshot](https://i.imgur.com/JClslQL.png)
 
 Runic Pickaxe
 
@@ -53,6 +58,12 @@ Runic Shovel
 Runic Hoe
 
 ![App Screenshot](https://i.imgur.com/k7CnuOQ.png)
+
+Runic Armor 
+
+To get other pieces of armor just replace a chestplate for other pieces of armor!
+
+![App Screenshot](https://i.imgur.com/ulxDRLX.png)
 
 To get a "Enderium Dust" you need to mine a "Source of Enderium" that is generated in End Dimension and you can only mine it with Netherite Pickaxe!
 
@@ -101,4 +112,5 @@ To obtain "Anti Matter Leaves" you need to use some tool with
 [MIT](https://choosealicense.com/licenses/mit/)
 
 !Textures are based on orginall vanilla ones but they're modified by me!
+
 
