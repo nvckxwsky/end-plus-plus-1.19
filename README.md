@@ -3,7 +3,7 @@
 
 EndPlusPlus adds new content to vanilla end dimension like end-exclusive resources, new higher tier of tools and new crafting recepies.
 
-Mod was made to feel like "A Vanilla-like End Update" that stays in spirit of vanilla minecraft but adds new content to boring end dimension!
+Mod was made to feel like "An End Update" that stays in spirit of vanilla minecraft but adds new content to boring end dimension!
 
 This project also is made for fun to try Minecraft Modding and Java Programming language so I will not guarantee any updates for this mod.
 
